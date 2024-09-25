@@ -1,0 +1,43 @@
+body {
+  background-color: #fef9f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 150px;
+}
+
+button {
+  background-color: #f9e779;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 2px 2px 100px #ffeca8;
+}
+
+button.light {
+  background-color: #f9e779;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 2px 2px 100px #ffeca8;
+}
+
+body.lights {
+  background-color: #fef9f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 150px;
+}
+
+button.right {
+  background-color: #252525;
+  box-shadow: 2px -20px 40px rgb(12 12 12);
+}
+
+body.rights {
+  background-color: rgb(36 36 36);
+  box-shadow: 10px;
+}
