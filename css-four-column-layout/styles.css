@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Barlow, sans-serif;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.justify-content {
+  justify-content: center;
+}
+
+.text-align {
+  text-align: center;
+}
+
+.column-10 {
+  flex-basis: 10%;
+}
+
+.phone {
+  width: 200px;
+}
+
+.icons {
+  width: 50px;
+}
+
+.function {
+  font-size: 12px;
+}
+
+.desc {
+  font-size: 10px;
+  font-weight: normal;
+}
