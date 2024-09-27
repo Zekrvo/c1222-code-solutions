@@ -1,0 +1,33 @@
+{
+  "nextId": 17,
+  "notes": {
+    "2": {
+      "id": 2,
+      "content": "The event loop, this, closures, and prototypal inheritance are special about JavaScript."
+    },
+    "5": {
+      "id": 5,
+      "content": "hell"
+    },
+    "6": {
+      "id": 6,
+      "content": "A closure is formed when a function retains access to variables in its lexical scope."
+    },
+    "10": {
+      "content": "ok",
+      "id": 10
+    },
+    "11": {
+      "content": "thats cool",
+      "id": 11
+    },
+    "12": {
+      "content": "thats co1l",
+      "id": 12
+    },
+    "13": {
+      "content": "hellaaaa",
+      "id": 13
+    }
+  }
+}
